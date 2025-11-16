@@ -1,21 +1,29 @@
-# Web Scraping Project
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
 
-This project demonstrates how to scrape data from websites using Python.  
-It includes code to send HTTP requests, parse HTML content with BeautifulSoup,  
-and save the extracted information into structured CSV files.
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
-## 📌 Features
-- Fetch webpage content using `requests`
-- Parse and extract data using `BeautifulSoup`
-- Clean and structure extracted data
-- Save results into CSV files
-- Jupyter Notebook included for easy demonstration
+# Mac system files
+.DS_Store
 
-## 🛠️ Technologies Used
-- Python
-- BeautifulSoup (`bs4`)
-- Requests
-- Pandas
-- Jupyter Notebook
+# Virtual environments
+venv/
+.venv/
+.env/
 
-## 📂 Project Structure
+# Environment variables
+*.env
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+

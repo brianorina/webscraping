@@ -19,3 +19,8 @@ and save the extracted information into structured CSV files.
 - Jupyter Notebook
 
 ## 📂 Project Structure
+webscraping/
+│── scraper.ipynb
+│── data.csv
+│── requirements.txt
+└── README.md
